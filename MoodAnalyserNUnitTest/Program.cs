@@ -4,17 +4,33 @@ namespace MoodAnalyserNameSpace
 {
     public class MoodAnalyserClass
     {
-
+        string message;
+        /// <summary>
+        /// Refractor
+        /// </summary>
+        /// <param name="message"></param>
+        public MoodAnalyserClass(string message)
+        {
+            this.message = message;
+        }
         public MoodAnalyserClass()
         {
 
         }
+
         public string MoodAnalyserMethod(string message)
         {
-            if (message.ToLower().Contains("sad"))
-                return "SAD";
-            else
+            try
+            {
+                if (message.ToLower().Contains("sad"))
+                    return "SAD";
+                else
+                    return "HAPPY";
+            }
+            catch (NullReferenceException)//Handled the null Exception
+            {
                 return "HAPPY";
+            }
         }
 
 

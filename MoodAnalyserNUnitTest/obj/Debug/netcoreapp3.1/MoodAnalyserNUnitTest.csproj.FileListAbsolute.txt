@@ -1,0 +1,13 @@
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\bin\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.exe
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\bin\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.deps.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\bin\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.runtimeconfig.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\bin\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.runtimeconfig.dev.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\bin\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\bin\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\obj\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.csprojAssemblyReference.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\obj\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.AssemblyInfoInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\obj\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.AssemblyInfo.cs
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\obj\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\obj\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\obj\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\MoodAnalyserNUnitTest\MoodAnalyserNUnitTest\obj\Debug\netcoreapp3.1\MoodAnalyserNUnitTest.genruntimeconfig.cache
